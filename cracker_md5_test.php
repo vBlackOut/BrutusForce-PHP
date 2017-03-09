@@ -75,9 +75,6 @@ class Colors {
 /* Debut Configuration */
   // Tableau contenant la liste des md5 à décrypter
 
-
-
-
   $tab_md5=array( 
     "900150983cd24fb0d6963f7d28e17f72", // = "abc"
     "5d41402abc4b2a76b9719d911017c592", // = "hello"
@@ -85,7 +82,6 @@ class Colors {
     "47bce5c74f589f4867dbd57e9ca9f808", // = "aaa"
     "001cbc059a402b3be7c99be558eaaf73", // = "bed"
     "e0554c47283b1c9f77ac5909bc8f5f10", // = "zwan"
-    "af3692f22addb6d89aacf25a0c03282f" // = "vauban123"
   );
 
 function getmtime()
