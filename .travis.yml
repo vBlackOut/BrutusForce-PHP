@@ -13,4 +13,4 @@ Configured Distribution:
  - Package System: rpm
 
 # command to run tests
-script: php main.php
+script: php cracker_md5_test.php
