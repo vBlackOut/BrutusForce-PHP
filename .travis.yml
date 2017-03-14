@@ -3,8 +3,8 @@ os: linux
 dist: Fedora
 language: php
 
-python:
-  - "2.7.13"
+php:
+  - "7.1"
   
 Configured Distribution:
  - Distribution Name: Fedora
