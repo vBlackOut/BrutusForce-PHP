@@ -1,0 +1,16 @@
+sudo: required
+os: linux
+dist: Fedora
+language: php
+
+python:
+  - "2.7.13"
+  
+Configured Distribution:
+ - Distribution Name: Fedora
+ - Release: precise
+ - Architecture: amd64
+ - Package System: rpm
+
+# command to run tests
+script: php main.php
