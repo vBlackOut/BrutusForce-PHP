@@ -4,7 +4,7 @@ dist: Fedora
 language: php
 
 php:
-  - "7.1"
+  - "7"
   
 Configured Distribution:
  - Distribution Name: Fedora
