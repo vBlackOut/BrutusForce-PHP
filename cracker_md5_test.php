@@ -169,7 +169,7 @@ foreach($tasks as $task) {
   // Définition du charset à utiliser
   $alpha_min_task1  = 1; // Lettres minuscules, 0 ou 1
   $chiffres_task1   = 1; // Chiffres, 0 ou 1
-  $alpha_maj_task1  = 1; // Lettres majuscules, 0 ou 1
+  $alpha_maj_task1  = 0; // Lettres majuscules, 0 ou 1
   $alpha_acc_task1  = 0; // Lettres accentuées
   $tous_task1   = 0; // Tous caractères
 /*************************/
